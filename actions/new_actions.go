@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func NewsAction1() {
+func NewsAction() {
 	fmt.Printf("Here")
 }
